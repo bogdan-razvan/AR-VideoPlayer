@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import RealityKit
 import ARKit
 
 class ViewController: UIViewController {
